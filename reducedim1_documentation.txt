@@ -1,0 +1,1 @@
+This is just dimensionality-reduction using pca, as all data points are neighbor-candidates. pca2 was better, so that has been used.

@@ -1,0 +1,1 @@
+This is dimensionality-reduction but neighbor-candidates are data points from specified class label.scatter3 was better, so that has been used.
